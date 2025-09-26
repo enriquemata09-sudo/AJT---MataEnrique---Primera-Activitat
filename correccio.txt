@@ -1,0 +1,28 @@
+Exercici 1: 1.25/2
+(a) 1/1
+(b) 0.25/1
+  Tens dues errades:
+ Vas escriure el següent.
+           percentatge = (preu_entrada * (nombre_entrades- nombre_entrades_retornades)) +((nombre_entrades_retornades * preu_entrada) * 22) / 100
+    Primer, hauries d'haver dit que això és preu_total (preu_total = ....) i no (percentatge = ..)
+    Segon, fixat que vas posar 22. Pero el percentatge que et retornaven era el 88%, per tant aquí hauries d'haver posat un 12% i no un 22%. En tot cas, una manera d'estalviar-te l'error hauria sigut la següent:
+    Definir percentatge = 88, i llavors...   
+  percentatge =88
+  preu_final = (preu_entrada * (nombre_entrades- nombre_entrades_retornades)) +((nombre_entrades_retornades * preu_entrada) * (100-percentatge) / 100
+  D'aquesta manera t'estalvies l'error humà de calcular 100-88, i també ho fas més automàtic a les dades. Sempre que puguem, intentem que a les fórmules hi apareguin variables, de manera que si s'ha de fer algun canvi,
+  sigui només a les dades d'entrada i no dins de la mateixa fórmula.
+
+Exercici 2: 1.5/1.5
+
+Exercici 3: 1.25/1.5
+  Està bé, però vas ficar una línia random que feia 
+        r = ""
+
+  De manera que en la escriptura dels càlculs per al radi r=15, no es va mostrar bé el missatge per pantalla.
+
+Exercici 4: 4/4
+
+Jupyter: 1/1
+Github: 1/1
+
+Nota final: 10/11 --> 9.09
