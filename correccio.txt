@@ -1,6 +1,6 @@
 Exercici 1: 1.25/2
 (a) 1/1
-(b) 0.25/1
+(b) 0.5/1
   Tens dues errades:
  Vas escriure el següent.
            percentatge = (preu_entrada * (nombre_entrades- nombre_entrades_retornades)) +((nombre_entrades_retornades * preu_entrada) * 22) / 100
@@ -25,4 +25,4 @@ Exercici 4: 4/4
 Jupyter: 1/1
 Github: 1/1
 
-Nota final: 10/11 --> 9.09
+Nota final: 10.25/11 --> 9.32
